@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1545848539 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/SignalStatisticsLibraryTest/main.cpp
+	<iostream>
+	"SignalStatistics.hpp"
+
+1545847885 /Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/SignalStatisticsLibraryTest/SignalStatistics.hpp
+

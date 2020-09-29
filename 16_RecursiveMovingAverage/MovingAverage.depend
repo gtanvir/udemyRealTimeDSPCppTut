@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543168376 source:c:\users\israel\documents\c++ dsp course\movingaveragefilters\recursivemovingaverage\waveforms.cpp
+
+1543172491 source:c:\users\israel\documents\c++ dsp course\movingaveragefilters\recursivemovingaverage\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

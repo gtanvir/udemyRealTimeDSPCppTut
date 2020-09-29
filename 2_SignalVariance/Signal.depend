@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541473576 source:c:\users\israel\documents\c++ dsp course\signal statistics\signal\waveforms.cpp
+
+1541473576 source:c:\users\israel\documents\c++ dsp course\signal statistics\signalvariance\waveforms.cpp
+
+1541502378 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/2_SignalVariance/waveforms.cpp
+
+1545774304 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/2_SignalVariance/main.cpp
+	<iostream>
+	<cmath>
+

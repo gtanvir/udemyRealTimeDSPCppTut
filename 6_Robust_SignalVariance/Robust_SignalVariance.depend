@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1542862139 source:c:\users\israel\documents\c++ dsp course\signal statistics\robust_signalvariance\main.cpp
+	<iostream>
+	"variance.hpp"
+
+1542861827 c:\users\israel\documents\c++ dsp course\signal statistics\robust_signalvariance\variance.hpp
+	<stdint.h>
+
+1542861836 source:c:\users\israel\documents\c++ dsp course\signal statistics\robust_signalvariance\variance.cpp
+	"variance.hpp"
+
+1542860568 source:c:\users\israel\documents\c++ dsp course\signal statistics\robust_signalvariance\waveforms.cpp
+

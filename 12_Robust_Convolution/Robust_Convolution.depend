@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1542948120 source:c:\users\israel\documents\c++ dsp course\convolutionandcorrelation\robust_convolution\convolution.cpp
+	"convolution.hpp"
+
+1542947726 c:\users\israel\documents\c++ dsp course\convolutionandcorrelation\robust_convolution\convolution.hpp
+	<stdint.h>
+	<cmath>
+
+1542947259 source:c:\users\israel\documents\c++ dsp course\convolutionandcorrelation\robust_convolution\waveforms.cpp
+
+1542947726 source:c:\users\israel\documents\c++ dsp course\convolutionandcorrelation\robust_convolution\main.cpp
+	<iostream>
+	<fstream>
+	"convolution.hpp"
+

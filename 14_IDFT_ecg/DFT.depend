@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541559165 source:c:\users\israel\documents\c++ dsp course\dft and idft\dft\waveforms.cpp
+
+1541565081 source:c:\users\israel\documents\c++ dsp course\dft and idft\dft\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1546022074 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/8_Robust_Signal_RMS/main.cpp
+	<iostream>
+	"rms.hpp"
+
+1546012857 /Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/8_Robust_Signal_RMS/rms.hpp
+	<cmath>
+	<stdint.h>
+
+1546012931 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/8_Robust_Signal_RMS/rms.cpp
+	"rms.hpp"
+
+1546012681 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/8_Robust_Signal_RMS/waveforms.c
+

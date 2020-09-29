@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1545863193 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/5_Robust_Signal_Mean/main.cpp
+	<iostream>
+	"mean.hpp"
+
+1545862857 /Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/5_Robust_Signal_Mean/mean.hpp
+	<stdint.h>
+
+1545863088 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/5_Robust_Signal_Mean/mean.cpp
+	"mean.hpp"
+
+1545862469 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/5_Robust_Signal_Mean/waveforms.cpp
+

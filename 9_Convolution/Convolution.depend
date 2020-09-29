@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1546023731 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/9_Convolution/main.cpp
+	<iostream>
+	<fstream>
+
+1541507088 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/9_Convolution/waveforms.cpp
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1542937334 source:c:\users\israel\documents\c++ dsp course\signal statistics\robust_signalstd\main.cpp
+	<iostream>
+	"standardDeviation.hpp"
+
+1542937493 c:\users\israel\documents\c++ dsp course\signal statistics\robust_signalstd\standarddeviation.hpp
+	<cmath>
+	<stdint.h>
+
+1542937334 source:c:\users\israel\documents\c++ dsp course\signal statistics\robust_signalstd\waveforms.cpp
+
+1542937436 source:c:\users\israel\documents\c++ dsp course\signal statistics\robust_signalstd\standarddeviation.cpp
+	"standardDeviation.hpp"
+

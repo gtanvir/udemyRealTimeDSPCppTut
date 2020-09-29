@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1545846830 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/4_SignalStatistics/SignalStatisticsClass/main.cpp
+	<iostream>
+	"SignalStatistic.h"
+
+1545845663 /Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/4_SignalStatistics/SignalStatisticsClass/SignalStatistic.h
+
+1545846914 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/4_SignalStatistics/SignalStatisticsClass/SignalStatistics.cpp
+	"SignalStatistic.h"
+	<cmath>
+
+1545844386 source:/Users/falsetruth/GoogleDrive/MastersStudy/DspWithCpp/4_SignalStatistics/SignalStatisticsClass/waveforms.cpp
+
